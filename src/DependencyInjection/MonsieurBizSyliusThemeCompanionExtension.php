@@ -70,6 +70,6 @@ final class MonsieurBizSyliusThemeCompanionExtension extends Extension implement
 
     private function getSyliusPluginPackages(): array
     {
-        return array_unique(ComposerRuntime::getInstalledPackagesByType('sylius-plugin'));
+        return array_unique(ComposerRuntime::getInstalledPackagesByType('sylius-theme'));
     }
 }
