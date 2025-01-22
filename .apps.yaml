@@ -1,0 +1,59 @@
+apps_root_dir: 'tmp' # Root dir where the apps will be installed. By default `apps` dir
+docker_project_name: 'theme-companion'
+local_packages:
+    monsieurbiz/sylius-theme-companion-plugin:
+        path: '.'
+        with_composer_install: true
+    monsieurbiz/sylius-1-packaged-naked-theme:
+        path: './examples/themes/packaged/sylius-1-naked'
+    monsieurbiz/sylius-2-packaged-naked-theme:
+        path: './examples/themes/packaged/sylius-2-naked'
+symlinks: # Symlinks to create from root folder to root folder
+#    -   source: 'docker-compose.yaml.dist'
+#        target: 'docker-compose.yaml'
+    -   source: '.php-version.dist'
+        target: '.php-version'
+    -   source: 'php.ini.dist'
+        target: 'php.ini'
+apps:
+    instances:
+        theme-companion-sylius1: # Use as the default domain and dir name in apps_root_dir
+            root_dir: 'theme-companion' # If you want to use a custom dir name
+            domain: 'theme-companion' # If you want to use a custom domain
+            sylius_version: '1.13' # Sylius version
+            #packages: ~ # Install all the packages defines in local_packages
+            packages:
+                - monsieurbiz/sylius-theme-companion-plugin
+                - monsieurbiz/sylius-1-packaged-naked-theme
+            symlinks:
+                -   source: 'examples/themes/local/sylius-1-naked'
+                    target: 'themes/sylius-1-naked'
+                -   source: 'examples/themes/local/sylius-1-naked-override'
+                    target: 'themes/sylius-1-naked-override'
+        theme-companion-sylius2:
+            sylius_version: '2.0'
+            packages:
+                - monsieurbiz/sylius-theme-companion-plugin
+                - monsieurbiz/sylius-2-packaged-naked-theme
+            node_version: '20' # Node version to use, by default `16`
+            fixture_suite: 'default' # Fixture suite to load, by default `default`
+            symlinks:
+                -   source: 'examples/themes/local/sylius-2-naked'
+                    target: 'themes/sylius-2-naked'
+                -   source: 'examples/themes/local/sylius-2-naked-override'
+                    target: 'themes/sylius-2-naked-override'
+                -   source: 'examples/themes/local/sylius-2-original'
+                    target: 'themes/sylius-2-original'
+                -   source: 'examples/themes/local/sylius-2-quartz'
+                    target: 'themes/sylius-2-quartz'
+    removes:
+        - 'docker-compose.yml'
+        - 'docker-compose.yaml'
+        - 'compose.yml'
+    symlinks: # Symlinks to create from root folder to app folder
+#        -   source: 'docker-compose.yaml.dist'
+#            target: 'docker-compose.yaml'
+        -   source: '.php-version.dist'
+            target: '.php-version'
+        -   source: 'php.ini.dist'
+            target: 'php.ini'

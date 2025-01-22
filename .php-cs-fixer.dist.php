@@ -24,7 +24,9 @@ $finder = PhpCsFixer\Finder::create()
     ->in(__DIR__)
     ->exclude(
         [
-            'tests/Application',
+            'tests',
+            'tmp',
+            'castor.php',
         ]
     )
 ;
@@ -49,6 +51,7 @@ $config
         'binary_operator_spaces' => true,
         'blank_line_after_opening_tag' => true,
         'blank_line_after_namespace' => true,
+        'blank_lines_before_namespace' => true,
         'blank_line_before_statement' => true,
         'cast_spaces' => true,
         'class_attributes_separation' => true,
@@ -59,7 +62,7 @@ $config
         'combine_consecutive_issets' => true,
         'combine_consecutive_unsets' => true,
         'comment_to_phpdoc' => true,
-        'compact_nullable_typehint' => true,
+        'compact_nullable_type_declaration' => true,
         'concat_space' => [
             'spacing' => 'one',
         ],
@@ -85,8 +88,12 @@ $config
         'fully_qualified_strict_types' => true,
         'function_declaration' => true,
         'function_to_constant' => true,
-        'function_typehint_space' => true,
         'general_phpdoc_tag_rename' => true,
+        'global_namespace_import' => [
+            'import_classes' => true,
+            'import_constants' => false,
+            'import_functions' => false,
+        ],
         'header_comment' => [
             'header' => $header,
             'location' => 'after_open',
@@ -114,7 +121,7 @@ $config
         ],
         'native_constant_invocation' => true,
         'native_function_casing' => true,
-        'new_with_braces' => true,
+        'new_with_parentheses' => true,
         'no_alias_functions' => true,
         'no_alternative_syntax' => true,
         'no_blank_lines_after_class_opening' => true,
@@ -153,14 +160,14 @@ $config
         'no_short_bool_cast' => true,
         'no_spaces_after_function_name' => true,
         'no_spaces_around_offset' => true,
-        'no_spaces_inside_parenthesis' => true,
+        'spaces_inside_parentheses' => true,
         'no_superfluous_elseif' => true,
         'no_superfluous_phpdoc_tags' => [
             'allow_mixed' => true,
         ],
         'no_unset_cast' => true,
         'no_unneeded_control_parentheses' => true,
-        'no_unneeded_curly_braces' => true,
+        'no_unneeded_braces' => true,
         'no_unneeded_final_method' => true,
         'no_unset_on_property' => true,
         'no_unused_imports' => true,
@@ -207,7 +214,9 @@ $config
         'phpdoc_order' => true,
         'phpdoc_return_self_reference' => true,
         'phpdoc_scalar' => true,
-        'phpdoc_separation' => true,
+        'phpdoc_separation' => ['groups' => [
+            ['ORM\\*'], ['Assert\\*'],
+        ]],
         'phpdoc_single_line_var_spacing' => true,
         'phpdoc_tag_type' => true,
         'phpdoc_to_comment' => false,
@@ -243,6 +252,7 @@ $config
             'elements' => ['arrays'],
         ],
         'trim_array_spaces' => true,
+        'type_declaration_spaces' => true,
         'unary_operator_spaces' => true,
         'visibility_required' => [
             'elements' => [

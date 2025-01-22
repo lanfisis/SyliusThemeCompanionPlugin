@@ -1,0 +1,922 @@
+<project version="4">
+    <component name="BookmarksManager">
+        <option name="groups">
+            <GroupState>
+                <option name="bookmarks">
+                    <BookmarkState>
+                        <attributes>
+                            <entry key="url" value="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Context/SettableThemeContext.php" />
+                            <entry key="line" value="14" />
+                        </attributes>
+                        <option name="description" value="" />
+                        <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+                    </BookmarkState>
+                </option>
+                <option name="name" value="SyliusThemeCompanionPlugin" />
+            </GroupState>
+        </option>
+    </component>
+    <component name="FileEditorManager">
+        <leaf ideFingerprint="1mwc83w5ob1d8" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+            <file>
+                <entry file="file://$PROJECT_DIR$/.php-version">
+                    <provider editor-type-id="text-editor" selected="true" />
+                </entry>
+                <tab><![CDATA[{"tabTitle":".php-version","foregroundColor":-5194043,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}]]></tab>
+            </file>
+            <file>
+                <entry file="file://$PROJECT_DIR$/composer.json">
+                    <provider editor-type-id="text-editor" selected="true">
+                        <state relative-caret-position="447">
+                            <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+                        </state>
+                    </provider>
+                </entry>
+                <tab><![CDATA[{"tabTitle":"composer.json","foregroundColor":-5194043,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-67,1,10,-70,1,106,97,114,58,102,105,108,101,58,47,85,115,101,114,115,47,100,97,98,117,114,47,76,105,98,114,97,114,121,47,65,112,112,108,105,99,97,116,105,111,110,37,50,48,83,117,112,112,111,114,116,47,74,101,116,66,114,97,105,110,115,47,80,104,112,83,116,111,114,109,50,48,50,52,46,50,47,112,108,117,103,105,110,115,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,99,111,109,112,111,115,101,114,46,115,118,103]}]]></tab>
+            </file>
+            <file>
+                <entry file="file://$PROJECT_DIR$/phpmd.xml">
+                    <provider editor-type-id="text-editor" selected="true">
+                        <state relative-caret-position="-1049" />
+                    </provider>
+                </entry>
+                <tab><![CDATA[{"tabTitle":"phpmd.xml","foregroundColor":-5194043,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-72,1,10,-75,1,106,97,114,58,102,105,108,101,58,47,85,115,101,114,115,47,100,97,98,117,114,47,76,105,98,114,97,114,121,47,65,112,112,108,105,99,97,116,105,111,110,37,50,48,83,117,112,112,111,114,116,47,74,101,116,66,114,97,105,110,115,47,80,104,112,83,116,111,114,109,50,48,50,52,46,50,47,112,108,117,103,105,110,115,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,120,109,108,46,115,118,103]}]]></tab>
+            </file>
+            <file>
+                <entry file="file://$PROJECT_DIR$/phpstan.neon">
+                    <provider editor-type-id="text-editor" selected="true" />
+                </entry>
+                <tab><![CDATA[{"tabTitle":"phpstan.neon","foregroundColor":-5194043,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-71,1,10,-74,1,106,97,114,58,102,105,108,101,58,47,85,115,101,114,115,47,100,97,98,117,114,47,76,105,98,114,97,114,121,47,65,112,112,108,105,99,97,116,105,111,110,37,50,48,83,117,112,112,111,114,116,47,74,101,116,66,114,97,105,110,115,47,80,104,112,83,116,111,114,109,50,48,50,52,46,50,47,112,108,117,103,105,110,115,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,110,101,111,110,46,115,118,103]}]]></tab>
+            </file>
+            <file current-in-tab="true">
+                <entry file="file://$APPLICATION_CONFIG_DIR$/workspace/2T3VcUmcZemPkIVr5AOoKYzP9rR.xml">
+                    <provider editor-type-id="text-editor" selected="true">
+                        <state relative-caret-position="435">
+                            <caret line="233" column="104" lean-forward="true" selection-start-line="233" selection-start-column="104" selection-end-line="233" selection-end-column="104" />
+                            <folding>
+                                <element signature="e#10312#10316#0" expanded="true" />
+                                <element signature="e#42195#42199#0" expanded="true" />
+                                <element signature="e#42221#42225#0" expanded="true" />
+                                <element signature="e#42450#42454#0" expanded="true" />
+                                <element signature="e#42476#42480#0" expanded="true" />
+                                <element signature="e#42685#42689#0" expanded="true" />
+                                <element signature="e#42884#42888#0" expanded="true" />
+                                <element signature="e#42910#42914#0" expanded="true" />
+                                <element signature="e#43124#43128#0" expanded="true" />
+                                <element signature="e#43320#43324#0" expanded="true" />
+                                <element signature="e#43344#43348#0" expanded="true" />
+                                <element signature="e#44162#44166#0" expanded="true" />
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+                <tab><![CDATA[{"tabTitle":"2T3VcUmcZemPkIVr5AOoKYzP9rR.xml","foregroundColor":-5194043,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-72,1,10,-75,1,106,97,114,58,102,105,108,101,58,47,85,115,101,114,115,47,100,97,98,117,114,47,76,105,98,114,97,114,121,47,65,112,112,108,105,99,97,116,105,111,110,37,50,48,83,117,112,112,111,114,116,47,74,101,116,66,114,97,105,110,115,47,80,104,112,83,116,111,114,109,50,48,50,52,46,50,47,112,108,117,103,105,110,115,47,65,116,111,109,37,50,48,77,97,116,101,114,105,97,108,37,50,48,73,99,111,110,115,47,108,105,98,47,97,45,102,105,108,101,45,105,99,111,110,45,105,100,101,97,45,57,55,46,48,46,48,45,105,110,115,116,114,117,109,101,110,116,101,100,46,106,97,114,33,47,97,115,115,101,116,115,47,105,99,111,110,115,47,102,105,108,101,115,47,120,109,108,46,115,118,103]}]]></tab>
+            </file>
+        </leaf>
+    </component>
+    <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "PLAIN_TEXT": {
+      "usageCount": 10,
+      "lastUsed": 1737453440230
+    },
+    ".env file": {
+      "usageCount": 1,
+      "lastUsed": 1736949364939
+    },
+    "DIFF": {
+      "usageCount": 4,
+      "lastUsed": 1736950591344
+    },
+    "Twig": {
+      "usageCount": 14,
+      "lastUsed": 1737368477161
+    },
+    "Makefile": {
+      "usageCount": 7,
+      "lastUsed": 1737369660218
+    },
+    "PHP": {
+      "usageCount": 88,
+      "lastUsed": 1737448258054
+    },
+    "JSON": {
+      "usageCount": 26,
+      "lastUsed": 1737453421697
+    },
+    "YAML": {
+      "usageCount": 17,
+      "lastUsed": 1737454993022
+    },
+    "Image": {
+      "usageCount": 4,
+      "lastUsed": 1737111777866
+    },
+    "GitIgnore file": {
+      "usageCount": 2,
+      "lastUsed": 1737012991912
+    },
+    "CSS": {
+      "usageCount": 3,
+      "lastUsed": 1737121544088
+    },
+    "SVG": {
+      "usageCount": 1,
+      "lastUsed": 1737122036554
+    },
+    "XML": {
+      "usageCount": 7,
+      "lastUsed": 1737453901171
+    },
+    "Markdown": {
+      "usageCount": 2,
+      "lastUsed": 1737453441309
+    }
+  }
+}]]></component>
+    <component name="FindInProjectRecents">
+        <findStrings>
+            <find>SyliusOrderHistoryPlugin</find>
+            <find>order-history</find>
+            <find>ThemeInstaller</find>
+            <find>history</find>
+            <find>test.yaml</find>
+            <find>test.twig</find>
+            <find>FilesystemConfigurationSourceFactory</find>
+            <find>new_with_braces</find>
+            <find>dist</find>
+            <find>getThemePackagesPaths</find>
+            <find>$packages</find>
+            <find>Paths</find>
+            <find>$paths</find>
+            <find>Directories</find>
+            <find>$directories</find>
+            <find>$directoryPaths</find>
+            <find>getPackagedThemeDirectoryPaths</find>
+            <find>package</find>
+            <find>getLocalThemeDirectoryPaths</find>
+            <find>'asset'</find>
+            <find>addGlobal(</find>
+            <find>themecontext</find>
+            <find>ThemeRepositoryInterface</find>
+            <find>interface ThemeRepositoryInterface</find>
+            <find>sylius.context.theme</find>
+            <find>SyliusShopExtension</find>
+            <find>context</find>
+            <find>inme</find>
+            <find>loader</find>
+            <find>twi</find>
+            <find>path</find>
+            <find>return</find>
+            <find>sylius-local-naked-theme</find>
+            <find>sylius-package-naked-theme</find>
+            <find>.php-version</find>
+            <find>${APP_DIR}/.php-version</find>
+            <find>plugin</find>
+            <find>repositories</find>
+            <find>$domain</find>
+            <find>$syliusVersion</find>
+            <find>$dir</find>
+            <find>.php-version.dist</find>
+            <find>nake</find>
+        </findStrings>
+        <replaceStrings>
+            <replace>SyliusThemeCompanionPlugin</replace>
+            <replace>theme-companion</replace>
+            <replace>ThemeCompanion</replace>
+            <replace>getPackagedThemePaths</replace>
+            <replace>$paths</replace>
+            <replace>Directories</replace>
+            <replace>DirectoryPaths</replace>
+            <replace>$directoryPath</replace>
+            <replace>$directoryPaths</replace>
+            <replace>$directories</replace>
+            <replace>getPackagedThemes</replace>
+            <replace>locale</replace>
+            <replace>getLocalThemes</replace>
+            <replace>sylius2-local-naked-theme</replace>
+            <replace>sylius2-package-naked-theme</replace>
+            <replace>$context['domain']</replace>
+            <replace>$context['sylius_version']</replace>
+            <replace>$context-&gt;workingDirectory</replace>
+            <replace />
+        </replaceStrings>
+        <dirStrings>
+            <dir>$PROJECT_DIR$/vendor/sylius/theme-bundle/src/DependencyInjection</dir>
+            <dir>$PROJECT_DIR$/vendor/sylius/theme-bundle</dir>
+            <dir>$PROJECT_DIR$/vendor/sylius/sylius</dir>
+            <dir>$PROJECT_DIR$/tests/Application/vendor</dir>
+            <dir>$PROJECT_DIR$/tests/Application/vendor/sylius/theme-bundle/src</dir>
+            <dir>$PROJECT_DIR$/dist/themes/sylius2-local-naked-theme</dir>
+            <dir>$PROJECT_DIR$</dir>
+        </dirStrings>
+    </component>
+    <component name="FindInProjectScope">
+        <option name="directoryName" value="$PROJECT_DIR$" />
+    </component>
+    <component name="GitBranchesPopupTreeState">
+        <expand>
+            <path>
+                <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+                <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+            </path>
+            <path>
+                <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+                <item name="LOCAL" type="ae103dac:GitBranchType" />
+            </path>
+        </expand>
+        <select />
+    </component>
+    <component name="GitSEFilterConfiguration">{}</component>
+    <component name="IdeDocumentHistory">
+        <changedPaths>
+            <option value="$PROJECT_DIR$/phpstan.neon" />
+            <option value="$PROJECT_DIR$/src/DependencyInjection/MonsieurBizSyliusThemeInstallerExtension.php" />
+            <option value="$PROJECT_DIR$/.github/workflows/recipe.yaml" />
+            <option value="$PROJECT_DIR$/DEVELOPMENT.md" />
+            <option value="$PROJECT_DIR$/.github/workflows/tests.yaml" />
+            <option value="$PROJECT_DIR$/.gitignore" />
+            <option value="$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Configuration/Filesystem/FilesystemConfigurationSourceFactory.php" />
+            <option value="$PROJECT_DIR$/tests/Application/vendor/sylius/theme-bundle/src/Configuration/Filesystem/FilesystemConfigurationSourceFactory.php" />
+            <option value="$PROJECT_DIR$/tests/Application/config/packages/_sylius.yaml" />
+            <option value="$PROJECT_DIR$/.php-version.dist" />
+            <option value="$PROJECT_DIR$/.php-version" />
+            <option value="$PROJECT_DIR$/.php-cs-fixer.dist.php" />
+            <option value="$PROJECT_DIR$/tests/Application/composer.json" />
+            <option value="$PROJECT_DIR$/tests/themes/naked-theme/composer.json" />
+            <option value="$PROJECT_DIR$/tests/themes/naked-theme/translations/messages.en.yaml" />
+            <option value="$PROJECT_DIR$/tests/themes/naked-theme/templates/bundles/SyliusShopBundle/homepage/index.html.twig" />
+            <option value="$PROJECT_DIR$/tests/themes/sylius-package-naked-theme/translations/messages.en.yaml" />
+            <option value="$PROJECT_DIR$/dist/themes/local-naked-theme/composer.json" />
+            <option value="$PROJECT_DIR$/dist/themes/local-naked-theme/templates/bundles/SyliusShopBundle/homepage/index.html.twig" />
+            <option value="$PROJECT_DIR$/tests/Application/themes/local-naked-theme/templates/bundles/SyliusShopBundle/homepage/index.html.twig" />
+            <option value="$PROJECT_DIR$/tests/Application/themes/local-naked-theme/composer.json" />
+            <option value="$PROJECT_DIR$/tests/Application/config/packages/asset_mapper.yaml" />
+            <option value="$PROJECT_DIR$/tests/Application/importmap.php" />
+            <option value="$PROJECT_DIR$/dist/themes/sylius-local-naked-theme/assets/styles/theme.css" />
+            <option value="$PROJECT_DIR$/dist/themes/sylius-local-naked-theme/assets/css/theme.css" />
+            <option value="$PROJECT_DIR$/dist/themes/sylius-local-naked-theme/assets/css/style.css" />
+            <option value="$PROJECT_DIR$/tests/themes/sylius-package-naked-theme/assets/css/style.css" />
+            <option value="$PROJECT_DIR$/tests/themes/sylius-package-naked-theme/templates/bundles/SyliusShopBundle/homepage/index.html.twig" />
+            <option value="$PROJECT_DIR$/src/config/services.yaml" />
+            <option value="$PROJECT_DIR$/config/services.yaml" />
+            <option value="$PROJECT_DIR$/tests/themes/sylius-package-naked-theme/composer.json" />
+            <option value="$PROJECT_DIR$/dist/themes/sylius-local-naked-theme/composer.json" />
+            <option value="$PROJECT_DIR$/src/DependencyInjection/MonsieurBizSyliusThemeCompanionExtension.php" />
+            <option value="$PROJECT_DIR$/src/Loader/RichThemeLoader.php" />
+            <option value="$PROJECT_DIR$/src/Model/RichTheme.php" />
+            <option value="$PROJECT_DIR$/src/Model/VarsAwareThemeInterface.php" />
+            <option value="$PROJECT_DIR$/src/Context/RichShopperContext.php" />
+            <option value="$PROJECT_DIR$/dist/themes/sylius-local-naked-theme/templates/bundles/SyliusShopBundle/homepage/index.html.twig" />
+            <option value="$PROJECT_DIR$/dist/themes/sylius-local-naked-theme/translations/messages.en.yaml" />
+            <option value="$PROJECT_DIR$/dist/themes/sylius2-local-naked-theme/composer.json" />
+            <option value="$PROJECT_DIR$/tests/themes/sylius2-package-naked-theme/translations/messages.en.yaml" />
+            <option value="$PROJECT_DIR$/dist/themes/sylius2-local-naked-theme/translations/messages.en.yaml" />
+            <option value="$PROJECT_DIR$/dist/themes/sylius2-local-naked-theme/templates/bundles/SyliusShopBundle/homepage/index.html.twig" />
+            <option value="$PROJECT_DIR$/tests/themes/sylius2-package-naked-theme/templates/bundles/SyliusShopBundle/homepage/index.html.twig" />
+            <option value="$PROJECT_DIR$/composer.json" />
+            <option value="$PROJECT_DIR$/Makefile" />
+            <option value="$PROJECT_DIR$/castor.php" />
+        </changedPaths>
+    </component>
+    <component name="IgnoredFileRootStore">
+        <option name="generatedRoots">
+            <set>
+                <option value="$PROJECT_DIR$/.idea" />
+            </set>
+        </option>
+    </component>
+    <component name="LanguageUsageStatistics">
+        <language id="CSS">
+            <summary usageCount="3" lastUsage="1737121544088" />
+        </language>
+        <language id="DotEnv">
+            <summary usageCount="1" lastUsage="1736949364939" />
+        </language>
+        <language id="GitIgnore">
+            <summary usageCount="5" lastUsage="1737012991912" />
+        </language>
+        <language id="Ini">
+            <summary usageCount="1" lastUsage="1690273066224" />
+        </language>
+        <language id="JSON">
+            <summary usageCount="29" lastUsage="1737453421697" />
+        </language>
+        <language id="Makefile">
+            <summary usageCount="9" lastUsage="1737369660218" />
+        </language>
+        <language id="Markdown">
+            <summary usageCount="5" lastUsage="1737453441309" />
+        </language>
+        <language id="PHP">
+            <summary usageCount="99" lastUsage="1737448258054" />
+        </language>
+        <language id="SVG">
+            <summary usageCount="1" lastUsage="1737122036554" />
+        </language>
+        <language id="TEXT">
+            <summary usageCount="15" lastUsage="1737453440230" />
+        </language>
+        <language id="Twig">
+            <summary usageCount="14" lastUsage="1737368477161" />
+        </language>
+        <language id="XML">
+            <summary usageCount="7" lastUsage="1737453901171" />
+        </language>
+        <language id="yaml">
+            <summary usageCount="22" lastUsage="1737454993022" />
+        </language>
+    </component>
+    <component name="ProjectView">
+        <navigator currentView="ProjectPane" proportions="" version="1" />
+        <panes>
+            <pane id="ProjectPane">
+                <subPane>
+                    <expand>
+                        <path>
+                            <item name="SyliusThemeCompanionPlugin" type="b2602c69:ProjectViewProjectNode" />
+                            <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin}" type="462c0819:PsiDirectoryNode" />
+                        </path>
+                        <path>
+                            <item name="SyliusThemeCompanionPlugin" type="b2602c69:ProjectViewProjectNode" />
+                            <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin}" type="462c0819:PsiDirectoryNode" />
+                            <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin/docs}" type="462c0819:PsiDirectoryNode" />
+                        </path>
+                        <path>
+                            <item name="SyliusThemeCompanionPlugin" type="b2602c69:ProjectViewProjectNode" />
+                            <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin}" type="462c0819:PsiDirectoryNode" />
+                            <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin/docs}" type="462c0819:PsiDirectoryNode" />
+                            <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin/docs/images}" type="462c0819:PsiDirectoryNode" />
+                        </path>
+                    </expand>
+                    <select />
+                    <presentation>
+                        <attributes />
+                        <data iconPath="icons/toolwindows/toolWindowProject.svg" iconPlugin="com.mallowigi" isLeaf="false" text="SyliusThemeCompanionPlugin" />
+                        <item name="SyliusThemeCompanionPlugin" type="b2602c69:ProjectViewProjectNode" />
+                        <presentation>
+                            <attributes>
+                                <map>
+                                    <entry key="filePath" value="$PROJECT_DIR$" />
+                                </map>
+                            </attributes>
+                            <data iconPath="icons/mt/modules/ModuleOpen.svg" iconPlugin="com.mallowigi" isLeaf="false" text="SyliusThemeCompanionPlugin" />
+                            <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin}" type="462c0819:PsiDirectoryNode" />
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/.github" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="false" text=".github" />
+                                <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin/.github}" type="462c0819:PsiDirectoryNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/docs" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="false" text="docs" />
+                                <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin/docs}" type="462c0819:PsiDirectoryNode" />
+                                <presentation>
+                                    <attributes>
+                                        <map>
+                                            <entry key="filePath" value="$PROJECT_DIR$/docs/images" />
+                                        </map>
+                                    </attributes>
+                                    <data isLeaf="false" text="images" />
+                                    <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin/docs/images}" type="462c0819:PsiDirectoryNode" />
+                                    <presentation>
+                                        <attributes>
+                                            <map>
+                                                <entry key="filePath" value="$PROJECT_DIR$/docs/images/banner.jpg" />
+                                            </map>
+                                        </attributes>
+                                        <data isLeaf="true" text="banner.jpg" />
+                                        <item name="banner.jpg" type="ab9368bb:PsiFileNode" />
+                                    </presentation>
+                                </presentation>
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/node_modules" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="false" text="node_modules" />
+                                <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin/node_modules}" type="462c0819:PsiDirectoryNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/src" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="false" text="src" />
+                                <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin/src}" type="462c0819:PsiDirectoryNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/vendor" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="false" text="vendor" />
+                                <item name="dir{file:///Users/dabur/Projects/SyliusThemeCompanionPlugin/vendor}" type="462c0819:PsiDirectoryNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/.castor.stub.php" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="true" text=".castor.stub.php" />
+                                <item name=".castor.stub.php" type="88303cf5:PhpFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="true" text=".gitignore" />
+                                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/.php-cs-fixer.dist.php" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="true" text=".php-cs-fixer.dist.php" />
+                                <item name=".php-cs-fixer.dist.php" type="88303cf5:PhpFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/.php-version" />
+                                    </map>
+                                </attributes>
+                                <data iconPath="files/fileTypes/text.svg" iconPlugin="com.mallowigi" isLeaf="true" text=".php-version" />
+                                <item name=".php-version" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/.php-version.dist" />
+                                    </map>
+                                </attributes>
+                                <data iconPath="files/fileTypes/text.svg" iconPlugin="com.mallowigi" isLeaf="true" text=".php-version.dist" />
+                                <item name=".php-version.dist" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/composer.json" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="true" text="composer.json" />
+                                <item name="composer.json" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/composer.lock" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="true" text="composer.lock" />
+                                <item name="composer.lock" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/DEVELOPMENT.md" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="true" text="DEVELOPMENT.md" />
+                                <item name="DEVELOPMENT.md" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/docker-compose.yaml.dist" />
+                                    </map>
+                                </attributes>
+                                <data iconPath="files/fileTypes/text.svg" iconPlugin="com.mallowigi" isLeaf="true" text="docker-compose.yaml.dist" />
+                                <item name="docker-compose.yaml.dist" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/LICENSE" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="true" text="LICENSE" />
+                                <item name="LICENSE" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/php.ini" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="true" text="php.ini" />
+                                <item name="php.ini" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/php.ini.dist" />
+                                    </map>
+                                </attributes>
+                                <data iconPath="files/fileTypes/text.svg" iconPlugin="com.mallowigi" isLeaf="true" text="php.ini.dist" />
+                                <item name="php.ini.dist" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/phpmd.xml" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="true" text="phpmd.xml" />
+                                <item name="phpmd.xml" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/phpstan.neon" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="true" text="phpstan.neon" />
+                                <item name="phpstan.neon" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                            <presentation>
+                                <attributes>
+                                    <map>
+                                        <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                                    </map>
+                                </attributes>
+                                <data isLeaf="true" text="README.md" />
+                                <item name="README.md" type="ab9368bb:PsiFileNode" />
+                            </presentation>
+                        </presentation>
+                        <presentation>
+                            <attributes />
+                            <data iconPath="icons/nodes/ppLib.svg" iconPlugin="com.mallowigi" isLeaf="false" text="External Libraries" />
+                            <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+                        </presentation>
+                        <presentation>
+                            <attributes />
+                            <data iconPath="icons/scope/scratches.svg" iconPlugin="com.mallowigi" isLeaf="false" text="Scratches and Consoles" />
+                            <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+                        </presentation>
+                    </presentation>
+                </subPane>
+            </pane>
+            <pane id="Scope" />
+        </panes>
+    </component>
+    <component name="TerminalArrangementManager">
+        <option name="myTabStates">
+            <TerminalTabState tabName="Local">
+                <shellCommand>
+                    <arg value="/bin/zsh" />
+                    <arg value="--login" />
+                    <arg value="-i" />
+                </shellCommand>
+            </TerminalTabState>
+            <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$/tests/Application" />
+        </option>
+    </component>
+    <component name="TimeTrackingManager">
+        <option name="totallyTimeSpent" value="82389000" />
+    </component>
+    <component name="ToolWindowManager">
+        <layoutV2>
+            <window_info id="Pull Requests" />
+            <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25028935" />
+            <window_info id="Commit" order="1" weight="0.25" />
+            <window_info id="Welcome to GitHub Copilot" order="2" />
+            <window_info id="Activity" order="3" weight="0.25028935" />
+            <window_info id="Structure" order="4" weight="0.25" />
+            <window_info anchor="bottom" id="Find" show_stripe_button="false" />
+            <window_info anchor="bottom" id="Version Control" order="0" />
+            <window_info anchor="bottom" id="Problems" order="1" />
+            <window_info anchor="bottom" id="Problems View" order="2" />
+            <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.2837963" />
+            <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" weight="0.3902778" />
+            <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+            <window_info anchor="right" id="Database" order="1" weight="0.25" />
+            <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+            <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+            <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+            <window_info anchor="right" id="Web Inspector" order="5" weight="0.25" />
+            <window_info anchor="right" id="GitHub Copilot Chat" order="6" weight="0.33015046" />
+            <unified_weights bottom="0.2837963" left="0.25028935" right="0.33015046" />
+        </layoutV2>
+        <layout-to-restore>
+            <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25028935" />
+            <window_info id="Commit" order="1" weight="0.25" />
+            <window_info id="Welcome to GitHub Copilot" order="2" />
+            <window_info id="Structure" order="3" weight="0.25" />
+            <window_info anchor="bottom" id="Find" show_stripe_button="false" />
+            <window_info anchor="bottom" id="Version Control" order="0" />
+            <window_info anchor="bottom" id="Problems" order="1" />
+            <window_info anchor="bottom" id="Problems View" order="2" />
+            <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3902778" />
+            <window_info anchor="bottom" id="Debug" order="4" weight="0.3902778" />
+            <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+            <window_info anchor="right" id="Database" order="1" weight="0.25" />
+            <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+            <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+            <window_info anchor="right" id="github.copilotToolWindow" order="4" show_stripe_button="false" />
+            <window_info anchor="right" id="Web Inspector" order="5" weight="0.25" />
+            <window_info anchor="right" id="GitHub Copilot Chat" order="6" weight="0.33015046" />
+            <unified_weights bottom="0.3902778" left="0.25028935" right="0.33015046" />
+        </layout-to-restore>
+        <recentWindows>
+            <value>Project</value>
+            <value>Terminal</value>
+            <value>Activity</value>
+            <value>Debug</value>
+            <value>GitHub Copilot Chat</value>
+            <value>Find</value>
+        </recentWindows>
+    </component>
+    <component name="WindowStateProjectService">
+        <state x="452" y="234" key="#PHPStan" timestamp="1737013124007">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state x="452" y="234" key="#PHPStan/0.32.1728.1085@0.32.1728.1085" timestamp="1737013124007" />
+        <state x="665" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1737362264084">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state x="665" y="257" key="#com.intellij.ide.util.MemberChooser/0.32.1728.1085@0.32.1728.1085" timestamp="1737362264084" />
+        <state x="602" y="334" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1737366251087">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state x="602" y="334" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.32.1728.1085@0.32.1728.1085" timestamp="1737366251087" />
+        <state x="627" y="480" width="581" height="363" key="#xdebugger.evaluate" timestamp="1737365152764">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state x="627" y="480" width="581" height="363" key="#xdebugger.evaluate/0.32.1728.1085@0.32.1728.1085" timestamp="1737365152764" />
+        <state width="619" height="110" key="DebuggerActiveHint" timestamp="1737362837994">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="619" height="110" key="DebuggerActiveHint/0.32.1728.1085@0.32.1728.1085" timestamp="1737362837994" />
+        <state width="1646" height="376" key="GridCell.Tab.0.bottom" timestamp="1737451165635">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="1646" height="376" key="GridCell.Tab.0.bottom/0.32.1728.1085@0.32.1728.1085" timestamp="1737451165635" />
+        <state width="1646" height="376" key="GridCell.Tab.0.bottom/0.38.1728.998@0.38.1728.998" timestamp="1737362117841" />
+        <state width="1646" height="376" key="GridCell.Tab.0.center" timestamp="1737451165635">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="1646" height="376" key="GridCell.Tab.0.center/0.32.1728.1085@0.32.1728.1085" timestamp="1737451165635" />
+        <state width="1646" height="376" key="GridCell.Tab.0.center/0.38.1728.998@0.38.1728.998" timestamp="1737362117841" />
+        <state width="1646" height="376" key="GridCell.Tab.0.left" timestamp="1737451165635">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="1646" height="376" key="GridCell.Tab.0.left/0.32.1728.1085@0.32.1728.1085" timestamp="1737451165635" />
+        <state width="1646" height="376" key="GridCell.Tab.0.left/0.38.1728.998@0.38.1728.998" timestamp="1737362117841" />
+        <state width="1646" height="376" key="GridCell.Tab.0.right" timestamp="1737451165635">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="1646" height="376" key="GridCell.Tab.0.right/0.32.1728.1085@0.32.1728.1085" timestamp="1737451165635" />
+        <state width="1646" height="376" key="GridCell.Tab.0.right/0.38.1728.998@0.38.1728.998" timestamp="1737362117841" />
+        <state width="1646" height="376" key="GridCell.Tab.1.bottom" timestamp="1737451165635">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="1646" height="376" key="GridCell.Tab.1.bottom/0.32.1728.1085@0.32.1728.1085" timestamp="1737451165635" />
+        <state width="1646" height="376" key="GridCell.Tab.1.bottom/0.38.1728.998@0.38.1728.998" timestamp="1737037812269" />
+        <state width="1646" height="376" key="GridCell.Tab.1.center" timestamp="1737451165635">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="1646" height="376" key="GridCell.Tab.1.center/0.32.1728.1085@0.32.1728.1085" timestamp="1737451165635" />
+        <state width="1646" height="376" key="GridCell.Tab.1.center/0.38.1728.998@0.38.1728.998" timestamp="1737037812269" />
+        <state width="1646" height="376" key="GridCell.Tab.1.left" timestamp="1737451165635">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="1646" height="376" key="GridCell.Tab.1.left/0.32.1728.1085@0.32.1728.1085" timestamp="1737451165635" />
+        <state width="1646" height="376" key="GridCell.Tab.1.left/0.38.1728.998@0.38.1728.998" timestamp="1737037812269" />
+        <state width="1646" height="376" key="GridCell.Tab.1.right" timestamp="1737451165635">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="1646" height="376" key="GridCell.Tab.1.right/0.32.1728.1085@0.32.1728.1085" timestamp="1737451165635" />
+        <state width="1646" height="376" key="GridCell.Tab.1.right/0.38.1728.998@0.38.1728.998" timestamp="1737037812269" />
+        <state width="1646" height="376" key="GridCell.Tab.2.bottom" timestamp="1737451165635">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="1646" height="376" key="GridCell.Tab.2.bottom/0.32.1728.1085@0.32.1728.1085" timestamp="1737451165635" />
+        <state width="1646" height="376" key="GridCell.Tab.2.bottom/0.38.1728.998@0.38.1728.998" timestamp="1737037812269" />
+        <state width="1646" height="376" key="GridCell.Tab.2.center" timestamp="1737451165635">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="1646" height="376" key="GridCell.Tab.2.center/0.32.1728.1085@0.32.1728.1085" timestamp="1737451165635" />
+        <state width="1646" height="376" key="GridCell.Tab.2.center/0.38.1728.998@0.38.1728.998" timestamp="1737037812269" />
+        <state width="1646" height="376" key="GridCell.Tab.2.left" timestamp="1737451165635">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="1646" height="376" key="GridCell.Tab.2.left/0.32.1728.1085@0.32.1728.1085" timestamp="1737451165635" />
+        <state width="1646" height="376" key="GridCell.Tab.2.left/0.38.1728.998@0.38.1728.998" timestamp="1737037812269" />
+        <state width="1646" height="376" key="GridCell.Tab.2.right" timestamp="1737451165635">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="1646" height="376" key="GridCell.Tab.2.right/0.32.1728.1085@0.32.1728.1085" timestamp="1737451165635" />
+        <state width="1646" height="376" key="GridCell.Tab.2.right/0.38.1728.998@0.38.1728.998" timestamp="1737037812269" />
+        <state x="520" y="526" key="NewPhpClassDialog" timestamp="1737365922926">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state x="520" y="526" key="NewPhpClassDialog/0.32.1728.1085@0.32.1728.1085" timestamp="1737365922926" />
+        <state x="683" y="503" key="NewPhpFileDialog" timestamp="1737381287754">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state x="683" y="503" key="NewPhpFileDialog/0.32.1728.1085@0.32.1728.1085" timestamp="1737381287754" />
+        <state x="368" y="216" key="SettingsEditor" timestamp="1737382364228">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state x="368" y="216" key="SettingsEditor/0.32.1728.1085@0.32.1728.1085" timestamp="1737382364228" />
+        <state width="625" height="1085" key="SwitcherDM" timestamp="1737040184399">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="625" height="1085" key="SwitcherDM/0.32.1728.1085@0.32.1728.1085" timestamp="1737040184399" />
+        <state width="864" height="540" key="XDebugger.FullValuePopup" timestamp="1737014493595">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state width="864" height="540" key="XDebugger.FullValuePopup/0.32.1728.1085@0.32.1728.1085" timestamp="1737014493595" />
+        <state x="314" y="174" width="1050" height="723" key="find.popup" timestamp="1737368368169">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state x="314" y="174" width="1050" height="723" key="find.popup/0.32.1728.1085@0.32.1728.1085" timestamp="1737368368169" />
+        <state x="200" y="143" width="1528" height="880" key="lvcs.dialog.size" timestamp="1737453794060">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state x="200" y="143" width="1528" height="880" key="lvcs.dialog.size/0.32.1728.1085@0.32.1728.1085" timestamp="1737453794060" />
+        <state x="139" y="153" width="1528" height="880" key="lvcs.dialog.size/0.38.1728.1079@0.38.1728.1079" timestamp="1737449595621" />
+        <state x="529" y="265" width="670" height="709" key="search.everywhere.popup" timestamp="1737366205485">
+            <screen x="0" y="32" width="1728" height="1085" />
+        </state>
+        <state x="529" y="265" width="670" height="709" key="search.everywhere.popup/0.32.1728.1085@0.32.1728.1085" timestamp="1737366205485" />
+    </component>
+    <component name="debuggerHistoryManager">
+        <expressions id="evaluateExpression">
+            <expression>
+                <expression-string>$this-&gt;themes[$originalTheme-&gt;getName()]['config']['extra']['sylius']</expression-string>
+                <language-id>PHP</language-id>
+                <evaluation-mode>EXPRESSION</evaluation-mode>
+            </expression>
+            <expression>
+                <expression-string>$this-&gt;themes[$originalTheme-&gt;getName()]</expression-string>
+                <language-id>PHP</language-id>
+                <evaluation-mode>EXPRESSION</evaluation-mode>
+            </expression>
+            <expression>
+                <expression-string>$originalTheme-&gt;getName()</expression-string>
+                <language-id>PHP</language-id>
+                <evaluation-mode>EXPRESSION</evaluation-mode>
+            </expression>
+            <expression>
+                <expression-string>$this-&gt;themes[$originalTheme-&gt;getName()]['vars'] ?? []</expression-string>
+                <language-id>PHP</language-id>
+                <evaluation-mode>EXPRESSION</evaluation-mode>
+            </expression>
+            <expression>
+                <expression-string>$this-&gt;themes</expression-string>
+                <language-id>PHP</language-id>
+                <evaluation-mode>EXPRESSION</evaluation-mode>
+            </expression>
+            <expression>
+                <expression-string>$this-&gt;originalThemeLoader-&gt;load()</expression-string>
+                <language-id>PHP</language-id>
+                <evaluation-mode>EXPRESSION</evaluation-mode>
+            </expression>
+            <expression>
+                <expression-string>json_last_error()</expression-string>
+                <language-id>PHP</language-id>
+                <evaluation-mode>EXPRESSION</evaluation-mode>
+            </expression>
+            <expression>
+                <expression-string>array_column($themes, 'path')</expression-string>
+                <language-id>PHP</language-id>
+                <evaluation-mode>EXPRESSION</evaluation-mode>
+            </expression>
+            <expression>
+                <expression-string>json_decode($contents, true)</expression-string>
+                <language-id>PHP</language-id>
+                <evaluation-mode>EXPRESSION</evaluation-mode>
+            </expression>
+            <expression>
+                <expression-string>dirname($file-&gt;getRealPath())</expression-string>
+                <language-id>PHP</language-id>
+                <evaluation-mode>EXPRESSION</evaluation-mode>
+            </expression>
+        </expressions>
+    </component>
+    <component name="editorHistoryManager">
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Context/ThemeContextInterface.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Context/SettableThemeContext.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Resources/config/services/integrations/assets.xml" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Resources/config/services/configuration.xml" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Resources/config/services.xml" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Resources/config/services/integrations/templates.xml" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/sylius/src/Sylius/Bundle/ShopBundle/Theme/ChannelBasedThemeContext.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/UPGRADE.md" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Repository/ThemeRepositoryInterface.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Repository/InMemoryThemeRepository.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Loader/ThemeLoaderInterface.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Loader/ThemeLoader.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Configuration/ConfigurationProviderInterface.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Configuration/Filesystem/FilesystemConfigurationProvider.php" />
+        <entry file="file://$PROJECT_DIR$/tests/Application/vendor/symfony/asset-mapper/AssetMapperRepository.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/DependencyInjection/Configuration.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/DependencyInjection/SyliusThemeExtension.php" />
+        <entry file="file://$PROJECT_DIR$/tests/Application/vendor/sylius/theme-bundle/src/Configuration/Filesystem/JsonFileConfigurationLoader.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/sylius/src/Sylius/Bundle/ShopBundle/DependencyInjection/SyliusShopExtension.php" />
+        <entry file="file://$PROJECT_DIR$/tests/Application/vendor/sylius/theme-bundle/src/Resources/config/services.xml" />
+        <entry file="file://$PROJECT_DIR$/config/services.yaml" />
+        <entry file="file://$PROJECT_DIR$/tests/Application/vendor/sylius/theme-bundle/src/Loader/ThemeLoader.php" />
+        <entry file="file://$PROJECT_DIR$/tests/Application/vendor/sylius/sylius/src/Sylius/Bundle/ShopBundle/DependencyInjection/SyliusShopExtension.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/theme-bundle/src/Model/Theme.php" />
+        <entry file="file://$PROJECT_DIR$/tests/Application/vendor/sylius/theme-bundle/src/Repository/InMemoryThemeRepository.php" />
+        <entry file="file://$PROJECT_DIR$/tests/Application/var/cache/dev/Container163Zsxp/ShopperContextGhost277a1f0.php" />
+        <entry file="file://$PROJECT_DIR$/vendor/sylius/sylius/src/Sylius/Component/Core/Context/ShopperContext.php" />
+        <entry file="file://$PROJECT_DIR$/src/Context/RichShopperContext.php" />
+        <entry file="file://$PROJECT_DIR$/src/DependencyInjection/MonsieurBizSyliusThemeCompanionExtension.php" />
+        <entry file="file://$PROJECT_DIR$/src/Model/RichTheme.php" />
+        <entry file="file://$PROJECT_DIR$/src/Model/VarsAwareThemeInterface.php" />
+        <entry file="file://$PROJECT_DIR$/src/Loader/RichThemeLoader.php" />
+        <entry file="file://$PROJECT_DIR$/tests/themes/sylius2-package-naked-theme/translations/messages.en.yaml" />
+        <entry file="file://$PROJECT_DIR$/tests/themes/sylius2-package-naked-theme/composer.json" />
+        <entry file="file://$PROJECT_DIR$/dist/themes/sylius2-local-naked-theme/composer.json" />
+        <entry file="file://$PROJECT_DIR$/dist/themes/sylius2-local-naked-theme/translations/messages.en.yaml" />
+        <entry file="file://$PROJECT_DIR$/dist/themes/sylius2-local-naked-theme/templates/bundles/SyliusShopBundle/homepage/index.html.twig" />
+        <entry file="file://$PROJECT_DIR$/.php-version.dist">
+            <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+        <entry file="file://$PROJECT_DIR$/tmp/.gitkeep" />
+        <entry file="file://$PROJECT_DIR$/tmp/sylius-2/composer.json" />
+        <entry file="file://$PROJECT_DIR$/.castor.stub.php">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="176">
+                    <caret line="233" column="31" selection-start-line="233" selection-start-column="31" selection-end-line="233" selection-end-column="31" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/castor.php" />
+        <entry file="file://$PROJECT_DIR$/Makefile" />
+        <entry file="file://$PROJECT_DIR$/tests/themes/sylius2-package-naked-theme/templates/bundles/SyliusShopBundle/homepage/index.html.twig" />
+        <entry file="file://$PROJECT_DIR$/.php-version">
+            <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+        <entry file="file://$PROJECT_DIR$/composer.json">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="447">
+                    <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/phpmd.xml">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-1049" />
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/README.md">
+            <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+                    <first_editor />
+                    <second_editor />
+                </state>
+            </provider>
+        </entry>
+        <entry file="file://$PROJECT_DIR$/phpstan.neon">
+            <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+        <entry file="file://$USER_HOME$/Downloads/messages.en.yaml">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-16660" />
+            </provider>
+        </entry>
+        <entry file="file://$APPLICATION_CONFIG_DIR$/workspace/2T3VcUmcZemPkIVr5AOoKYzP9rR.xml">
+            <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="435">
+                    <caret line="233" column="104" lean-forward="true" selection-start-line="233" selection-start-column="104" selection-end-line="233" selection-end-column="104" />
+                    <folding>
+                        <element signature="e#10312#10316#0" expanded="true" />
+                        <element signature="e#42195#42199#0" expanded="true" />
+                        <element signature="e#42221#42225#0" expanded="true" />
+                        <element signature="e#42450#42454#0" expanded="true" />
+                        <element signature="e#42476#42480#0" expanded="true" />
+                        <element signature="e#42685#42689#0" expanded="true" />
+                        <element signature="e#42884#42888#0" expanded="true" />
+                        <element signature="e#42910#42914#0" expanded="true" />
+                        <element signature="e#43124#43128#0" expanded="true" />
+                        <element signature="e#43320#43324#0" expanded="true" />
+                        <element signature="e#43344#43348#0" expanded="true" />
+                        <element signature="e#44162#44166#0" expanded="true" />
+                    </folding>
+                </state>
+            </provider>
+        </entry>
+    </component>
+</project>

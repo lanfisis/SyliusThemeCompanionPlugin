@@ -107,7 +107,7 @@ apply_dist:
 ### TESTS
 ### ¯¯¯¯¯
 
-test.all: test.composer test.phpstan test.phpmd test.phpcs test.schema test.container ## Run all tests in once
+test.all: test.composer test.phpstan test.phpmd test.phpcs ## Run all tests in once
 
 test.composer: ## Validate composer.json
 	${COMPOSER} validate --strict

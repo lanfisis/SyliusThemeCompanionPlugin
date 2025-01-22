@@ -19,4 +19,13 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
 final class MonsieurBizSyliusThemeCompanionPlugin extends Bundle
 {
     use SyliusPluginTrait;
+
+    /**
+     * Require for the new bundlle structure without a root config folder
+     * instead of Resources/config folder.
+     */
+    public function getPath(): string
+    {
+        return \dirname(__DIR__);
+    }
 }

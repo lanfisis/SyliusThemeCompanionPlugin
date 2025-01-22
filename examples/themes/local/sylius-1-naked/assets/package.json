@@ -1,0 +1,10 @@
+{
+  "name": "@monsieurbiz/sylius-1-local-naked-theme",
+  "description": "Sylius 1 Local Naked Theme",
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "alpinejs": "^3.14.8"
+  }
+}

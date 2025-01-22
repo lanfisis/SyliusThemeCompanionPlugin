@@ -5,9 +5,12 @@
     "description": "Use this plugin to drive your theme management.",
     "license": "MIT",
     "require": {
-        "php": "~8.0",
-        "sylius/sylius": ">=1.9 <1.13",
-        "composer-runtime-api": "*"
+        "php": "~8.3",
+        "sylius/sylius": "^1.13|^2.0",
+        "symfony/asset-mapper": "^6.4|^7.2",
+        "symfony/asset": "^6.4|^7.2",
+        "symfony/twig-pack": "^1.0",
+        "symfony/string": "^6.4|^7.2"
     },
     "prefer-stable": true,
     "autoload": {
@@ -34,7 +37,8 @@
             "dealerdirect/phpcodesniffer-composer-installer": true,
             "symfony/thanks": true,
             "ergebnis/composer-normalize": true,
-            "symfony/flex": true
+            "symfony/flex": true,
+            "php-http/discovery": true
         }
     },
     "require-dev": {

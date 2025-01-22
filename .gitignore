@@ -1,11 +1,15 @@
 /vendor/
 /composer.lock
 
-/tests/Application
+/examples/Application
 
 /package-lock.json
 
 /.php-version
 /php.ini
+/docker-compose.yaml
 
 /node_modules
+/tmp
+
+/.castor.stub.php
