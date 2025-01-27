@@ -1,13 +1,22 @@
 {
     "name": "monsieurbiz/sylius-theme-companion-plugin",
     "type": "sylius-plugin",
-    "keywords": ["sylius", "sylius-plugin", "monsieurbiz", "theme-installer"],
+    "keywords": ["sylius", "sylius-plugin", "monsieurbiz"],
     "description": "Use this plugin to drive your theme management.",
     "license": "MIT",
     "require": {
-        "php": "~8.0",
-        "sylius/sylius": ">=1.9 <1.13",
+        "php": "^8.1",
+        "sylius/sylius": ">=1.12 <2.0",
         "composer-runtime-api": "*"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^3.16",
+        "phpspec/phpspec": "^7.0",
+        "phpstan/phpstan": "^1.8.4",
+        "phpstan/phpstan-doctrine": "^1.3.2",
+        "phpstan/phpstan-webmozart-assert": "^1.1",
+        "phpunit/phpunit": "^10.5",
+        "phpmd/phpmd": "^2.15"
     },
     "prefer-stable": true,
     "autoload": {
@@ -22,26 +31,26 @@
         },
         "phpcs": "PHP_CS_FIXER_IGNORE_ENV=1 php-cs-fixer fix --using-cache=no",
         "phpstan": "phpstan analyse -c phpstan.neon src/",
-        "phpmd": "phpmd --exclude Migrations/* src/ ansi phpmd.xml"
+        "phpmd": "phpmd --exclude Migrations/* src/ ansi phpmd.xml",
+        "phpunit": "phpunit",
+        "phpspec": "phpspec run"
     },
     "extra": {
+        "branch-alias": {
+            "dev-master": "1.1-dev"
+        },
         "symfony": {
-            "docker": false
+            "docker": false,
+            "endpoint": ["https://api.github.com/repos/monsieurbiz/symfony-recipes/contents/index.json?ref=flex/master", "flex://defaults"]
         }
     },
     "config": {
         "allow-plugins": {
-            "dealerdirect/phpcodesniffer-composer-installer": true,
             "symfony/thanks": true,
+            "symfony/flex": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true,
             "ergebnis/composer-normalize": true,
-            "symfony/flex": true
+            "php-http/discovery": true
         }
-    },
-    "require-dev": {
-        "phpstan/phpstan": "^1.10",
-        "phpstan/phpstan-doctrine": "^1.3",
-        "phpstan/phpstan-webmozart-assert": "^1.2",
-        "phpmd/phpmd": "^2.13",
-        "friendsofphp/php-cs-fixer": "^3.17"
     }
 }
