@@ -1,0 +1,34 @@
+{
+  "name": "monsieurbiz/sylius-2-local-quartz-theme",
+  "type": "sylius-theme",
+  "extra": {
+    "sylius-theme": {
+      "title": "Sylius 2 Local Quartz Theme",
+      "need_companion": true,
+      "prefix": "@Sylius2LocalQuartzTheme",
+      "parents": ["monsieurbiz/sylius-2-local-original-theme"],
+      "dependencies": {
+        "php-extra": {
+          "package_file": "%theme_companion.sylius2_local_quartz_theme.root_dir%/composer.json",
+          "package_manager": "composer",
+          "config": {
+            "composer_binary": ["/opt/homebrew/bin/symfony", "composer"]
+          }
+        }
+      },
+      "build_pipeline": {
+        "css": {
+          "input": "%theme_companion.sylius2_local_quartz_theme.assets_path%/styles/main.scss",
+          "config": {
+            "load_path": [
+              "%kernel.project_dir%/vendor/thomaspark/bootswatch/dist"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "require": {
+    "thomaspark/bootswatch": "^5.3.3"
+  }
+}
