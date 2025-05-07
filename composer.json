@@ -5,7 +5,7 @@
     "description": "Use this plugin to drive your theme management.",
     "license": "MIT",
     "require": {
-        "php": "~8.3",
+        "php": "^8.2",
         "ext-pcntl": "*",
         "sylius/sylius": "^1.13|^2.0",
         "symfony/asset-mapper": "^6.4|^7.2",
