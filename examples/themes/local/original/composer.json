@@ -18,13 +18,6 @@
         }
       },
       "dependencies": {
-        "php": {
-          "package_file": "%theme_companion.sylius2_local_original_theme.root_dir%/composer.json",
-          "package_manager": "composer",
-          "config": {
-            "composer_binary": ["/opt/homebrew/bin/symfony", "composer"]
-          }
-        },
         "js": {
           "package_file": "%theme_companion.sylius2_local_original_theme.assets_path%/package.json",
           "package_manager": "asset_mapper"
@@ -49,9 +42,5 @@
         }
       }
     }
-  },
-  "require": {
-    "symfonycasts/sass-bundle": "^0.8.2",
-    "twbs/bootstrap": "^5.3.3"
   }
 }

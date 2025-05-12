@@ -78,6 +78,7 @@ setup_application:
 
 setup_themes:
 	cp -r examples/themes/local/* ${APP_DIR}/themes
+	(cd ${APP_DIR} && ${COMPOSER} require --no-progress --no-interaction symfonycasts/sass-bundle twbs/bootstrap thomaspark/bootswatch)
 	(cd ${APP_DIR} && ${COMPOSER} config repositories.naked-theme '{"type": "path", "url": "../../examples/themes/packaged/naked"}')
 	(cd ${APP_DIR} && ${COMPOSER} require --no-progress monsieurbiz/sylius-2-packaged-naked-theme="*@dev")
 	#Small hack due to native bad import
