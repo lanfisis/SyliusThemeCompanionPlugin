@@ -80,7 +80,13 @@ setup_themes:
 	cp -r examples/themes/local/* ${APP_DIR}/themes
 	(cd ${APP_DIR} && ${COMPOSER} config repositories.naked-theme '{"type": "path", "url": "../../examples/themes/packaged/naked"}')
 	(cd ${APP_DIR} && ${COMPOSER} require --no-progress monsieurbiz/sylius-2-packaged-naked-theme="*@dev")
-	(cd ${APP_DIR} && sed -i '' "s/tom-select\.default\.min\.css/tom-select.default.css/g" importmap.php) #Small hack due to native bad import
+	#Small hack due to native bad import
+	(cd ${APP_DIR} && \
+      if sed --version >/dev/null 2>&1; then \
+        sed -i "s/tom-select\.default\.min\.css/tom-select.default.css/g" importmap.php; \
+      else \
+        sed -i '' "s/tom-select\.default\.min\.css/tom-select.default.css/g" importmap.php; \
+      fi)
 
 
 ${APP_DIR}/docker-compose.yaml:
